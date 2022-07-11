@@ -17,15 +17,15 @@ This project has two branches:
 
 <img src='images/locations.png'>
     
-## 3.Adding clickable markers in your Google Map
+## 3.Adding infoWindows
 
 <img src='images/InfoWindow.png'>
 
-## 4.Adding clickable markers in your Google Map
+## 4.Dynamically showing marker using Geolocation API
 
 <img src='images/currentLoc.png'>
 
-## 5.Adding clickable markers in your Google Map
+## 5.Draggable marker
 
 <img src='images/Draggable.png'>
 
